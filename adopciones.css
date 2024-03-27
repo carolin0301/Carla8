@@ -1,0 +1,49 @@
+
+		body{
+			background-color: aliceblue;
+			background-repeat: no-repeat;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		h1{
+			font-size: 50px;
+			color: #48C9B0;
+		}
+		p{
+			text-align: justify;
+			font-size: 19px;
+		}
+		h3{
+			color: #f235b3;
+			font-size: 22px;
+		}
+		p{
+			color: black;
+		}
+
+	.a{
+		margin-left: 350px;
+		
+	}
+
+	.b{
+		margin-left: 350px;
+	}
+
+	.c{
+		margin-left: 350px;
+	}
+
+	.d{
+		margin-left: 350px;
+	}
+
+	.e{
+		margin-left: 350px;
+	}
+
+	.f{
+		margin-left: 350px;
+	}
+
+	
